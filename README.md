@@ -1,4 +1,4 @@
-# Open Tech Summit Sri Lanka 2019
+# Open Tech Summit Sri Lanka 2020
 
 ### Python image build 
 ```
